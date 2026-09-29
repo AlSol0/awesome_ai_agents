@@ -104,6 +104,7 @@ There are hundreds of new AI agent types popping up, each designed to tackle spe
 Explore these tools and more to see how AI agents can simplify tasks, save time, and enhance creativity. With new agents emerging daily, this list is just the beginning of what's possible!
 
 ### Applications
+- [Penny Press](https://www.pennypress.org) - Essays on freedom, economics and philosophy; free for humans to read, pay-per-read for AI agents via x402 micropayments (USDC on Base). Remote MCP server with essay-discovery tools.
 Here are some AI agents that you can use right now to massively improve your productivity.
 
 ![](./assets/1.png)
